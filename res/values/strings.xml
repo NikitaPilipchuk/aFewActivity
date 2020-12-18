@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="textview">TextView</string>
+
+    <string name="splash">Заставка</string>
+    <string name="about">О программе</string>
+
+    <string name="about_text">
+        <b>Books Application</b>\n\n
+        <b>Версия: </b> 1.0\n\n
+
+        <b>Разработчик: </b>Никита Пилипчук, 14-422 ВБ\n\n
+
+        <b>Описание:</b>\n
+        Учебная программа, сделанная для задания №13 "Приложение с несколими активностями" на основе задания №12 RecycleView.\n
+</string>
+
+</resources>
